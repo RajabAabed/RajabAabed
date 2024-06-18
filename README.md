@@ -64,14 +64,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,py" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,java,py" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,ts,js,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
