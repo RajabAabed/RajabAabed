@@ -45,7 +45,7 @@
 
 - 📄 Know about my experiences [my experiences](https://www.rajabaabed.com/resume/)
 
-- ⚡ **I Love Take The Risk**
+- ⚡ **Keep Pushing The Limits**
 
 <br>
 <h3 align="left">Connect with me:</h3>
