@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFx-_vD2a0Z5A/profile-displaybackgroundimage-shrink_350_1400/0/1718184340261?e=1724284800&v=beta&t=5N5x7kH0fbGIvF_xZVVzOFTtG0kadaZKx3Iwbwh1ENw" align="center" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHrkH5be7YVCQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726055838545?e=1735171200&v=beta&t=lx0BAK_70jculfWAG0oiIulPIrSDC1ehj3H1PFmiWS4" align="center" width="100%"/>
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Rajab Aabed</h1>
